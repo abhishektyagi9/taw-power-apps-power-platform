@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/apim-power-plat-train-at20230224/apis/ContosoHealthcare",
+      "type": "apis.azure"
+    }
+  }
+}

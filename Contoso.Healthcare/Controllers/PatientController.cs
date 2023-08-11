@@ -69,5 +69,6 @@ namespace Contoso.Healthcare.Controllers
             pt.Name = "Contoso Patient 5";
             return pt;
         }
+
     }
 }

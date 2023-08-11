@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  contoso.healthcare:
+    image: ${DOCKER_REGISTRY-}contosohealthcare
+    build:
+      context: .
+      dockerfile: Dockerfile
